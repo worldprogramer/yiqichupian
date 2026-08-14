@@ -1,3 +1,4 @@
 # 安装包超过 GitHub 单文件 100MB 限制, 不提交 git, 只上传到 Releases
 release/*.exe
 release/*.exe.blockmap
+publish.ps1
