@@ -23,7 +23,9 @@ $GITHUB_BRANCH = "main"
 $gh = Get-Command gh -ErrorAction SilentlyContinue
 if (-not $gh) {
     $candidate = "C:\Users\pgj\AppData\Local\Programs\GitHubCLI\bin\gh.exe"
-    if (Test-Path $candidate) { $gh = Get-Item $candidate } else {
+    if (Test-Path $candidate) {
+        $gh = [pscustomobject]@{ Source = $candidate }
+    } else {
         Write-Host "[ERROR] 未找到 gh CLI, 请先安装: winget install GitHub.cli" -ForegroundColor Red
         exit 1
     }
