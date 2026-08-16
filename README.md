@@ -5,8 +5,9 @@
 ## 最新版本
 
 - 版本: **0.2.0**
-- 标签: $tag
-- 下载: [YiqiChupian-Setup-0.2.0.exe](https://github.com/worldprogramer/yiqichupian/releases/download/v0.2.0/YiqiChupian-Setup-0.2.0.exe)
+- 标签: `v0.2.0`
+- Windows 下载: [YiqiChupian-Setup-0.2.0.exe](https://github.com/worldprogramer/yiqichupian/releases/download/v0.2.0/YiqiChupian-Setup-0.2.0.exe)
+- macOS 下载: [YiqiChupian-0.2.0.dmg](https://github.com/worldprogramer/yiqichupian/releases/download/v0.2.0/YiqiChupian-0.2.0.dmg)（Universal，支持 Apple Silicon 与 Intel）
 
 ## 历史版本
 
