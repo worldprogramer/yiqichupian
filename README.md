@@ -7,7 +7,7 @@
 - 版本: **1.0.4**
 - 标签: `v1.0.4`
 - macOS 下载: [YiqiChupian-1.0.4.dmg](https://github.com/worldprogramer/yiqichupian/releases/download/v1.0.4/YiqiChupian-1.0.4.dmg)（Universal，支持 Apple Silicon 与 Intel）
-- Windows 下载（v0.2.0）: [YiqiChupian-Setup-0.2.0.exe](https://github.com/worldprogramer/yiqichupian/releases/download/v0.2.0/YiqiChupian-Setup-0.2.0.exe)
+- Windows 下载: [YiqiChupian-Setup-1.0.4.exe](https://github.com/worldprogramer/yiqichupian/releases/download/v1.0.4/YiqiChupian-Setup-1.0.4.exe)
 
 ## 历史版本
 
