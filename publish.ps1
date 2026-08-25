@@ -92,7 +92,7 @@ $readmeContent = @"
 ## 最新版本
 
 - 版本: **$Version**
-- 标签: `$tag`
+- 标签: ``$tag``
 - 下载: [$($exe.Name)]($downloadUrl)
 
 ## 历史版本
