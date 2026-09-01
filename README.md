@@ -4,9 +4,9 @@
 
 ## 最新版本
 
-- 版本: **1.1.1**
-- 标签: `v1.1.1`
-- 下载: [YiqiChupian-Setup-1.1.1.exe](https://github.com/worldprogramer/yiqichupian/releases/download/v1.1.1/YiqiChupian-Setup-1.1.1.exe)
+- 版本: **1.1.2**
+- 标签: `v1.1.2`
+- 下载: [YiqiChupian-Setup-1.1.2.exe](https://github.com/worldprogramer/yiqichupian/releases/download/v1.1.2/YiqiChupian-Setup-1.1.2.exe)
 
 ## 历史版本
 
