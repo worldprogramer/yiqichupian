@@ -4,9 +4,10 @@
 
 ## 最新版本
 
-- 版本: **1.1.5**
-- 标签: `v1.1.5`
-- 下载: [YiqiChupian-Setup-1.1.5.exe](https://github.com/worldprogramer/yiqichupian/releases/download/v1.1.5/YiqiChupian-Setup-1.1.5.exe)
+- 版本: **1.1.6**
+- 标签: `v1.1.6`
+- macOS 下载: [YiqiChupian-1.1.6.dmg](https://github.com/worldprogramer/yiqichupian/releases/download/v1.1.6/YiqiChupian-1.1.6.dmg)（Universal，支持 Apple Silicon 与 Intel）
+- Windows 下载: [YiqiChupian-Setup-1.1.6.exe](https://github.com/worldprogramer/yiqichupian/releases/download/v1.1.6/YiqiChupian-Setup-1.1.6.exe)
 
 ## 历史版本
 

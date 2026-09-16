@@ -4,3 +4,4 @@ release/*.exe.blockmap
 release/*.dmg
 release/*.dmg.blockmap
 publish.ps1
+.DS_Store
