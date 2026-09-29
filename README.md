@@ -15,4 +15,4 @@
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/30a6e27f-089d-4c23-a2d2-d89fe8c6cb40" />
 
 可在 [Releases 页面](https://github.com/worldprogramer/yiqichupian/releases) 查看并下载所有版本。
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/807fa375-40d5-4e3a-bfbf-a24d5a050c45" />
+
